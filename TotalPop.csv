@@ -1,0 +1,472 @@
+"","Entity","Code","Year","World Population over 12000 years (people)"
+"1","Biraben (1980)",NA,1,2.52e+08
+"2","Biraben (1980)",NA,1000,2.53e+08
+"3","Biraben (1980)",NA,1500,4.61e+08
+"4","Biraben (1980)",NA,1700,6.79e+08
+"5","Biraben (1980)",NA,1750,7.7e+08
+"6","Biraben (1980)",NA,1800,9.54e+08
+"7","Biraben (1980)",NA,1850,1.241e+09
+"8","Biraben (1980)",NA,1900,1.633e+09
+"9","Braudel (1981)",NA,1700,4.1e+08
+"10","Clark (1967)",NA,-8000,7500000
+"11","Clark (1967)",NA,1,2.56e+08
+"12","Clark (1967)",NA,600,2.37e+08
+"13","Clark (1967)",NA,1000,280200000
+"14","Clark (1967)",NA,1500,427800000
+"15","Clark (1967)",NA,1600,4.98e+08
+"16","Clark (1967)",NA,1700,640800000
+"17","Clark (1967)",NA,1750,7.31e+08
+"18","Clark (1967)",NA,1800,8.9e+08
+"19","Clark (1967)",NA,1850,1.171e+09
+"20","Durand (1974), lower",NA,1,2.7e+08
+"21","Durand (1974), lower",NA,1000,2.75e+08
+"22","Durand (1974), lower",NA,1500,4.4e+08
+"23","Durand (1974), lower",NA,1750,7.35e+08
+"24","Durand (1974), lower",NA,1900,1.65e+09
+"25","Durand (1974), upper",NA,1,3.3e+08
+"26","Durand (1974), upper",NA,1000,3.45e+08
+"27","Durand (1974), upper",NA,1500,5.4e+08
+"28","Durand (1974), upper",NA,1750,8.05e+08
+"29","Durand (1974), upper",NA,1900,1.71e+09
+"30","Durand (1977)",NA,1900,1.668e+09
+"31","Grigg (1987)",NA,-8000,7500000
+"32","Grigg (1987)",NA,1,2.56e+08
+"33","Grigg (1987)",NA,600,2.37e+08
+"34","Grigg (1987)",NA,1000,2.8e+08
+"35","Grigg (1987)",NA,1500,4.28e+08
+"36","Grigg (1987)",NA,1600,4.98e+08
+"37","Grigg (1987)",NA,1700,6.41e+08
+"38","Grigg (1987)",NA,1750,7.31e+08
+"39","Grigg (1987)",NA,1800,8.9e+08
+"40","Grigg (1987)",NA,1850,1.171e+09
+"41","Grigg (1987)",NA,1900,1.668e+09
+"42","Grigg (1987)",NA,1950,2.486e+09
+"43","Grigg (1987)",NA,1960,2.982e+09
+"44","Grigg (1987)",NA,1970,3.632e+09
+"45","Grigg (1987)",NA,1980,4.414e+09
+"46","HYDE 3.1",NA,-10000,2431214021
+"47","HYDE 3.1",NA,-9000,3564407699
+"48","HYDE 3.1",NA,-8000,5136461796
+"49","HYDE 3.1",NA,-7000,7561695768
+"50","HYDE 3.1",NA,-6000,1146100334
+"51","HYDE 3.1",NA,-5000,1792017232
+"52","HYDE 3.1",NA,-4000,2837042982
+"53","HYDE 3.1",NA,-3000,4481989272
+"54","HYDE 3.1",NA,-2000,7210813252
+"55","HYDE 3.1",NA,-1000,1150656656
+"56","HYDE 3.1",NA,1,1882390904
+"57","HYDE 3.1",NA,100,1950621925
+"58","HYDE 3.1",NA,200,2023095529
+"59","HYDE 3.1",NA,300,2053165544
+"60","HYDE 3.1",NA,400,2089098335
+"61","HYDE 3.1",NA,500,2104298366
+"62","HYDE 3.1",NA,600,2126427691
+"63","HYDE 3.1",NA,700,2258350119
+"64","HYDE 3.1",NA,800,2404876404
+"65","HYDE 3.1",NA,900,2687474479
+"66","HYDE 3.1",NA,1000,2950401952
+"67","HYDE 3.1",NA,1100,3526069188
+"68","HYDE 3.1",NA,1200,393081041
+"69","HYDE 3.1",NA,1300,3924035324
+"70","HYDE 3.1",NA,1400,3897748276
+"71","HYDE 3.1",NA,1500,4613676577
+"72","HYDE 3.1",NA,1600,553956117
+"73","HYDE 3.1",NA,1700,6031675441
+"74","HYDE 3.1",NA,1750,8115621439
+"75","HYDE 3.1",NA,1800,9893131027
+"76","HYDE 3.1",NA,1850,1262675510
+"77","HYDE 3.1",NA,1900,1654429527
+"78","HYDE 3.1",NA,1910,1777175381
+"79","HYDE 3.1",NA,1920,1912110935
+"80","HYDE 3.1",NA,1930,2091893626
+"81","HYDE 3.1",NA,1940,2307348107
+"82","HYDE 3.1",NA,1950,2544876952
+"83","HYDE 3.1",NA,1960,3042794825
+"84","HYDE 3.1",NA,1970,3709837147
+"85","HYDE 3.1",NA,1980,4460709975
+"86","HYDE 3.1",NA,1990,5307597268
+"87","HYDE 3.1",NA,2000,6144834307
+"88","Haub (1995)",NA,-8000,5e+06
+"89","Haub (1995)",NA,1,3e+08
+"90","Haub (1995)",NA,1200,4.5e+08
+"91","Haub (1995)",NA,1700,5e+08
+"92","Haub (1995)",NA,1750,7.95e+08
+"93","Haub (1995)",NA,1850,1.265e+09
+"94","Haub (1995)",NA,1900,1.656e+09
+"95","Kapitsa (1997)",NA,1750,7.28e+08
+"96","Kapitsa (1997)",NA,1800,9.07e+08
+"97","Kapitsa (1997)",NA,1850,1.17e+09
+"98","Kremer (1993)",NA,-10000,4e+06
+"99","Kremer (1993)",NA,-8000,4500000
+"100","Kremer (1993)",NA,-5000,5e+06
+"101","Kremer (1993)",NA,-4000,7e+06
+"102","Kremer (1993)",NA,-3000,1.4e+07
+"103","Kremer (1993)",NA,-2000,2.7e+07
+"104","Kremer (1993)",NA,-1000,5e+07
+"105","Kremer (1993)",NA,1000,2.56e+08
+"106","Kremer (1993)",NA,1100,3.2e+08
+"107","Kremer (1993)",NA,1200,3.6e+08
+"108","Kremer (1993)",NA,1300,3.6e+08
+"109","Kremer (1993)",NA,1400,3.5e+08
+"110","Kremer (1993)",NA,1500,4.25e+08
+"111","Kremer (1993)",NA,1600,5.45e+08
+"112","Kremer (1993)",NA,1700,6.1e+08
+"113","Kremer (1993)",NA,1750,7.2e+08
+"114","Kremer (1993)",NA,1800,9e+08
+"115","Kremer (1993)",NA,1850,1.2e+09
+"116","Kremer (1993)",NA,1900,1.625e+09
+"117","Kremer (1993)",NA,1920,1.813e+09
+"118","Livi-Bacci (1997)",NA,-10000,6e+06
+"119","Livi-Bacci (1997)",NA,-9000,4771754571
+"120","Livi-Bacci (1997)",NA,-8000,6876299549
+"121","Livi-Bacci (1997)",NA,-7000,1012301605
+"122","Livi-Bacci (1997)",NA,-6000,1534310878
+"123","Livi-Bacci (1997)",NA,-5000,2399014686
+"124","Livi-Bacci (1997)",NA,-4000,3798014695
+"125","Livi-Bacci (1997)",NA,-3000,6000142128
+"126","Livi-Bacci (1997)",NA,-2000,9653281555
+"127","Livi-Bacci (1997)",NA,-1000,1540410532
+"128","Livi-Bacci (1997)",NA,1,2.52e+08
+"129","Livi-Bacci (1997)",NA,200,2.57e+08
+"130","Livi-Bacci (1997)",NA,600,2.08e+08
+"131","Livi-Bacci (1997)",NA,1000,2.53e+08
+"132","Livi-Bacci (1997)",NA,1200,4e+08
+"133","Livi-Bacci (1997)",NA,1400,3.75e+08
+"134","Livi-Bacci (1997)",NA,1500,4.61e+08
+"135","Livi-Bacci (1997)",NA,1600,5.78e+08
+"136","Livi-Bacci (1997)",NA,1700,6.8e+08
+"137","Livi-Bacci (1997)",NA,1750,7.71e+08
+"138","Livi-Bacci (1997)",NA,1800,9.54e+08
+"139","Livi-Bacci (1997)",NA,1850,1.241e+09
+"140","Livi-Bacci (1997)",NA,1900,1.634e+09
+"141","Livi-Bacci (1997)",NA,1950,2.521e+09
+"142","Livi-Bacci (1997)",NA,2000,6.055e+09
+"143","Lucas (2003)",NA,1750,7.28e+08
+"144","Lucas (2003)",NA,1850,1.171e+09
+"145","Lucas (2003)",NA,1950,2.519e+09
+"146","Lucas (2003)",NA,1970,3.691e+09
+"147","Lucas (2003)",NA,1980,4.43e+09
+"148","Lucas (2003)",NA,1990,5.255e+09
+"149","Lucas (2003)",NA,2000,6.057e+09
+"150","Maddison (1991)",NA,1700,6.03e+08
+"151","Maddison (2001)",NA,1,230820000
+"152","Maddison (2001)",NA,1000,268273000
+"153","Maddison (2001)",NA,1500,437818000
+"154","Maddison (2001)",NA,1700,603410000
+"155","Matras (1973)",NA,1750,6.94e+08
+"156","Matras (1973)",NA,1900,1.571e+09
+"157","McEvedy and Jones (1978)",NA,-10000,4e+06
+"158","McEvedy and Jones (1978)",NA,-5000,5e+06
+"159","McEvedy and Jones (1978)",NA,-4000,7e+06
+"160","McEvedy and Jones (1978)",NA,-3000,1.4e+07
+"161","McEvedy and Jones (1978)",NA,-2000,2.7e+07
+"162","McEvedy and Jones (1978)",NA,-1000,5e+07
+"163","McEvedy and Jones (1978)",NA,1,1.7e+08
+"164","McEvedy and Jones (1978)",NA,100,1.8e+08
+"165","McEvedy and Jones (1978)",NA,200,1.9e+08
+"166","McEvedy and Jones (1978)",NA,300,1.9e+08
+"167","McEvedy and Jones (1978)",NA,400,1.9e+08
+"168","McEvedy and Jones (1978)",NA,500,1.9e+08
+"169","McEvedy and Jones (1978)",NA,600,2e+08
+"170","McEvedy and Jones (1978)",NA,700,2.1e+08
+"171","McEvedy and Jones (1978)",NA,800,2.2e+08
+"172","McEvedy and Jones (1978)",NA,900,2.4e+08
+"173","McEvedy and Jones (1978)",NA,1000,2.65e+08
+"174","McEvedy and Jones (1978)",NA,1100,3.2e+08
+"175","McEvedy and Jones (1978)",NA,1200,3.6e+08
+"176","McEvedy and Jones (1978)",NA,1300,3.6e+08
+"177","McEvedy and Jones (1978)",NA,1400,3.5e+08
+"178","McEvedy and Jones (1978)",NA,1500,4.25e+08
+"179","McEvedy and Jones (1978)",NA,1600,5.45e+08
+"180","McEvedy and Jones (1978)",NA,1700,6.1e+08
+"181","McEvedy and Jones (1978)",NA,1750,7.2e+08
+"182","McEvedy and Jones (1978)",NA,1800,9e+08
+"183","McEvedy and Jones (1978)",NA,1850,1.2e+09
+"184","McEvedy and Jones (1978)",NA,1900,1.625e+09
+"185","McEvedy and Jones (1978)",NA,1950,2.5e+09
+"186","Merrick et al. (1986)",NA,1750,7.6e+08
+"187","Merrick et al. (1986)",NA,1800,1e+09
+"188","Merrick et al. (1986)",NA,1900,1.63e+09
+"189","Merrick et al. (1986)",NA,1950,2.516e+09
+"190","Olofsson and Hickler (2007)",NA,-4000,7e+06
+"191","Olofsson and Hickler (2007)",NA,-2000,2.7e+07
+"192","Olofsson and Hickler (2007)",NA,1,1.7e+08
+"193","Olofsson and Hickler (2007)",NA,1000,2.65e+08
+"194","Olofsson and Hickler (2007)",NA,1700,6.1e+08
+"195","Olofsson and Hickler (2007)",NA,1850,1.2e+09
+"196","Olofsson and Hickler (2007)",NA,1990,5.3e+09
+"197","Our World In Data",NA,-10000,2431214
+"198","Our World In Data",NA,-9000,3564407
+"199","Our World In Data",NA,-8000,5136461
+"200","Our World In Data",NA,-7000,7561695
+"201","Our World In Data",NA,-6000,11461003
+"202","Our World In Data",NA,-5000,17920172
+"203","Our World In Data",NA,-4000,28370429
+"204","Our World In Data",NA,-3000,44819892
+"205","Our World In Data",NA,-2000,72108132
+"206","Our World In Data",NA,-1000,115065665
+"207","Our World In Data",NA,1,188239090
+"208","Our World In Data",NA,100,195062192
+"209","Our World In Data",NA,200,202309552
+"210","Our World In Data",NA,300,205316554
+"211","Our World In Data",NA,400,208909833
+"212","Our World In Data",NA,500,210429836
+"213","Our World In Data",NA,600,212642769
+"214","Our World In Data",NA,700,225835011
+"215","Our World In Data",NA,800,240487640
+"216","Our World In Data",NA,900,268747447
+"217","Our World In Data",NA,1000,295040195
+"218","Our World In Data",NA,1100,352606918
+"219","Our World In Data",NA,1200,393081040
+"220","Our World In Data",NA,1300,392403532
+"221","Our World In Data",NA,1400,389774827
+"222","Our World In Data",NA,1500,461367657
+"223","Our World In Data",NA,1600,553956116
+"224","Our World In Data",NA,1700,603167544
+"225","Our World In Data",NA,1750,811562143
+"226","Our World In Data",NA,1800,989818305
+"227","Our World In Data",NA,1850,1262682074
+"228","Our World In Data",NA,1900,1.65e+09
+"229","Our World In Data",NA,1901,1659947572
+"230","Our World In Data",NA,1902,1669996608
+"231","Our World In Data",NA,1903,1680114897
+"232","Our World In Data",NA,1904,1690269397
+"233","Our World In Data",NA,1905,1700426220
+"234","Our World In Data",NA,1906,1710550627
+"235","Our World In Data",NA,1907,1720607035
+"236","Our World In Data",NA,1908,1730559024
+"237","Our World In Data",NA,1909,1740369356
+"238","Our World In Data",NA,1910,1.75e+09
+"239","Our World In Data",NA,1911,1759443033
+"240","Our World In Data",NA,1912,1768814621
+"241","Our World In Data",NA,1913,1778264825
+"242","Our World In Data",NA,1914,1787947089
+"243","Our World In Data",NA,1915,1798018386
+"244","Our World In Data",NA,1916,1808639504
+"245","Our World In Data",NA,1917,1819975472
+"246","Our World In Data",NA,1918,1832196157
+"247","Our World In Data",NA,1919,1845477011
+"248","Our World In Data",NA,1920,1.86e+09
+"249","Our World In Data",NA,1921,1875909155
+"250","Our World In Data",NA,1922,1893171642
+"251","Our World In Data",NA,1923,1911708727
+"252","Our World In Data",NA,1924,1931439861
+"253","Our World In Data",NA,1925,1952282002
+"254","Our World In Data",NA,1926,1974148984
+"255","Our World In Data",NA,1927,1996950908
+"256","Our World In Data",NA,1928,2020593592
+"257","Our World In Data",NA,1929,2044978045
+"258","Our World In Data",NA,1930,2.07e+09
+"259","Our World In Data",NA,1931,2095524322
+"260","Our World In Data",NA,1932,2121306518
+"261","Our World In Data",NA,1933,2147063356
+"262","Our World In Data",NA,1934,2172497229
+"263","Our World In Data",NA,1935,2197296392
+"264","Our World In Data",NA,1936,2221135654
+"265","Our World In Data",NA,1937,2243677560
+"266","Our World In Data",NA,1938,2264574084
+"267","Our World In Data",NA,1939,2283468864
+"268","Our World In Data",NA,1940,2.3e+09
+"269","Our World In Data",NA,1941,2314055062
+"270","Our World In Data",NA,1942,2326540535
+"271","Our World In Data",NA,1943,2338643871
+"272","Our World In Data",NA,1944,2351580095
+"273","Our World In Data",NA,1945,2366593074
+"274","Our World In Data",NA,1946,2384963558
+"275","Our World In Data",NA,1947,2408024366
+"276","Our World In Data",NA,1948,2437183278
+"277","Our World In Data",NA,1949,2473954492
+"278","Our World In Data",NA,1950,2536431000
+"279","Our World In Data",NA,1951,2584034000
+"280","Our World In Data",NA,1952,2630862000
+"281","Our World In Data",NA,1953,2677609000
+"282","Our World In Data",NA,1954,2724847000
+"283","Our World In Data",NA,1955,2773020000
+"284","Our World In Data",NA,1956,2822443000
+"285","Our World In Data",NA,1957,2873306000
+"286","Our World In Data",NA,1958,2925687000
+"287","Our World In Data",NA,1959,2979576000
+"288","Our World In Data",NA,1960,3034950000
+"289","Our World In Data",NA,1961,3091844000
+"290","Our World In Data",NA,1962,3150421000
+"291","Our World In Data",NA,1963,3211001000
+"292","Our World In Data",NA,1964,3273978000
+"293","Our World In Data",NA,1965,3339584000
+"294","Our World In Data",NA,1966,3407923000
+"295","Our World In Data",NA,1967,3478770000
+"296","Our World In Data",NA,1968,3551599000
+"297","Our World In Data",NA,1969,3625681000
+"298","Our World In Data",NA,1970,3700437000
+"299","Our World In Data",NA,1971,3775760000
+"300","Our World In Data",NA,1972,3851650000
+"301","Our World In Data",NA,1973,3927780000
+"302","Our World In Data",NA,1974,4003794000
+"303","Our World In Data",NA,1975,4079481000
+"304","Our World In Data",NA,1976,4154667000
+"305","Our World In Data",NA,1977,4229506000
+"306","Our World In Data",NA,1978,4304534000
+"307","Our World In Data",NA,1979,4380506000
+"308","Our World In Data",NA,1980,4458004000
+"309","Our World In Data",NA,1981,4536997000
+"310","Our World In Data",NA,1982,4617387000
+"311","Our World In Data",NA,1983,4699569000
+"312","Our World In Data",NA,1984,4784012000
+"313","Our World In Data",NA,1985,4870922000
+"314","Our World In Data",NA,1986,4960568000
+"315","Our World In Data",NA,1987,5052522000
+"316","Our World In Data",NA,1988,5145426000
+"317","Our World In Data",NA,1989,5237442000
+"318","Our World In Data",NA,1990,5327231000
+"319","Our World In Data",NA,1991,5414289000
+"320","Our World In Data",NA,1992,5498920000
+"321","Our World In Data",NA,1993,5581598000
+"322","Our World In Data",NA,1994,5663150000
+"323","Our World In Data",NA,1995,5744213000
+"324","Our World In Data",NA,1996,5824892000
+"325","Our World In Data",NA,1997,5905046000
+"326","Our World In Data",NA,1998,5984794000
+"327","Our World In Data",NA,1999,6064239000
+"328","Our World In Data",NA,2000,6143494000
+"329","Our World In Data",NA,2001,6222627000
+"330","Our World In Data",NA,2002,6301773000
+"331","Our World In Data",NA,2003,6381185000
+"332","Our World In Data",NA,2004,6461159000
+"333","Our World In Data",NA,2005,6541907000
+"334","Our World In Data",NA,2006,6623518000
+"335","Our World In Data",NA,2007,6705947000
+"336","Our World In Data",NA,2008,6789089000
+"337","Our World In Data",NA,2009,6872767000
+"338","Our World In Data",NA,2010,6956824000
+"339","Our World In Data",NA,2011,7041194000
+"340","Our World In Data",NA,2012,7125828000
+"341","Our World In Data",NA,2013,7210582000
+"342","Our World In Data",NA,2014,7295291000
+"343","Our World In Data",NA,2015,7379797000
+"344","Our World In Data",NA,2016,7464022000
+"345","Our World In Data",NA,2017,7547859000
+"346","Our World In Data",NA,2018,7631091000
+"347","Our World In Data",NA,2019,7713468000
+"348","Renfrew and Bahn, lower (1996)",NA,-10000,5e+06
+"349","Renfrew and Bahn, upper (1996)",NA,-10000,2e+07
+"350","Richards (1990)",NA,1920,2e+09
+"351","Richards (1990)",NA,1980,4.43e+09
+"352","Stern and Kaufmann (1996)",NA,1900,1.622e+09
+"353","Stern and Kaufmann (1996)",NA,1910,1.76e+09
+"354","Stern and Kaufmann (1996)",NA,1920,1.91e+09
+"355","Stern and Kaufmann (1996)",NA,1930,2.086e+09
+"356","Stern and Kaufmann (1996)",NA,1940,2.291e+09
+"357","Stern and Kaufmann (1996)",NA,1950,2.516e+09
+"358","Stern and Kaufmann (1996)",NA,1960,3.019e+09
+"359","Stern and Kaufmann (1996)",NA,1970,3.697e+09
+"360","Stern and Kaufmann (1996)",NA,1980,4.447e+09
+"361","Stern and Kaufmann (1996)",NA,1990,5.295e+09
+"362","Tanton (1995)",NA,1700,6e+08
+"363","Tanton (1995)",NA,1800,9e+08
+"364","Tanton (1995)",NA,1900,1.6e+09
+"365","Tanton (1995)",NA,1950,2.4e+09
+"366","Thomlinson (1975), lower",NA,-10000,1e+06
+"367","Thomlinson (1975), lower",NA,-5000,5e+06
+"368","Thomlinson (1975), lower",NA,1,2e+08
+"369","Thomlinson (1975), lower",NA,1300,4e+08
+"370","Thomlinson (1975), lower",NA,1700,6e+08
+"371","Thomlinson (1975), lower",NA,1750,7e+08
+"372","Thomlinson (1975), lower",NA,1800,9e+08
+"373","Thomlinson (1975), lower",NA,1900,1.6e+09
+"374","Thomlinson (1975), lower",NA,1950,2.4e+09
+"375","Thomlinson (1975), upper",NA,-10000,1e+07
+"376","Thomlinson (1975), upper",NA,-5000,2e+07
+"377","Tuve (1976)",NA,1900,1.58e+09
+"378","Tuve (1976)",NA,1910,1.66e+09
+"379","Tuve (1976)",NA,1920,1.81e+09
+"380","Tuve (1976)",NA,1930,2.01e+09
+"381","Tuve (1976)",NA,1940,2.24e+09
+"382","Tuve (1976)",NA,1950,2.49e+09
+"383","Tuve (1976)",NA,1960,2.98e+09
+"384","Tuve (1976)",NA,1970,3.63e+09
+"385","UN (2008)",NA,1950,2.535e+09
+"386","UN (2008)",NA,1960,3.032e+09
+"387","UN (2008)",NA,1970,3.697e+09
+"388","UN (2008)",NA,1980,4.451e+09
+"389","UN (2008)",NA,1990,5.295e+09
+"390","UN (2008)",NA,2000,6.124e+09
+"391","UN Medium Variant Projection (2019 revision)",NA,2020,7794799000
+"392","UN Medium Variant Projection (2019 revision)",NA,2021,7874966000
+"393","UN Medium Variant Projection (2019 revision)",NA,2022,7953953000
+"394","UN Medium Variant Projection (2019 revision)",NA,2023,8031800000
+"395","UN Medium Variant Projection (2019 revision)",NA,2024,8108605000
+"396","UN Medium Variant Projection (2019 revision)",NA,2025,8184437000
+"397","UN Medium Variant Projection (2019 revision)",NA,2026,8259277000
+"398","UN Medium Variant Projection (2019 revision)",NA,2027,8333078000
+"399","UN Medium Variant Projection (2019 revision)",NA,2028,8405863000
+"400","UN Medium Variant Projection (2019 revision)",NA,2029,8477661000
+"401","UN Medium Variant Projection (2019 revision)",NA,2030,8548487000
+"402","UN Medium Variant Projection (2019 revision)",NA,2031,8618349000
+"403","UN Medium Variant Projection (2019 revision)",NA,2032,8687228000
+"404","UN Medium Variant Projection (2019 revision)",NA,2033,8755083000
+"405","UN Medium Variant Projection (2019 revision)",NA,2034,8821863000
+"406","UN Medium Variant Projection (2019 revision)",NA,2035,8887524000
+"407","UN Medium Variant Projection (2019 revision)",NA,2036,8952049000
+"408","UN Medium Variant Projection (2019 revision)",NA,2037,9015438000
+"409","UN Medium Variant Projection (2019 revision)",NA,2038,9077694000
+"410","UN Medium Variant Projection (2019 revision)",NA,2039,9138828000
+"411","UN Medium Variant Projection (2019 revision)",NA,2040,9198847000
+"412","UN Medium Variant Projection (2019 revision)",NA,2041,9257746000
+"413","UN Medium Variant Projection (2019 revision)",NA,2042,9315508000
+"414","UN Medium Variant Projection (2019 revision)",NA,2043,9372118000
+"415","UN Medium Variant Projection (2019 revision)",NA,2044,9427555000
+"416","UN Medium Variant Projection (2019 revision)",NA,2045,9481803000
+"417","UN Medium Variant Projection (2019 revision)",NA,2046,9534855000
+"418","UN Medium Variant Projection (2019 revision)",NA,2047,9586708000
+"419","UN Medium Variant Projection (2019 revision)",NA,2048,9637358000
+"420","UN Medium Variant Projection (2019 revision)",NA,2049,9686800000
+"421","UN Medium Variant Projection (2019 revision)",NA,2050,9735034000
+"422","UN Medium Variant Projection (2019 revision)",NA,2051,9782062000
+"423","UN Medium Variant Projection (2019 revision)",NA,2052,9827885000
+"424","UN Medium Variant Projection (2019 revision)",NA,2053,9872500000
+"425","UN Medium Variant Projection (2019 revision)",NA,2054,9915902000
+"426","UN Medium Variant Projection (2019 revision)",NA,2055,9958094000
+"427","UN Medium Variant Projection (2019 revision)",NA,2056,9999078000
+"428","UN Medium Variant Projection (2019 revision)",NA,2057,10038871000
+"429","UN Medium Variant Projection (2019 revision)",NA,2058,10077505000
+"430","UN Medium Variant Projection (2019 revision)",NA,2059,10115020000
+"431","UN Medium Variant Projection (2019 revision)",NA,2060,10151449000
+"432","UN Medium Variant Projection (2019 revision)",NA,2061,10186812000
+"433","UN Medium Variant Projection (2019 revision)",NA,2062,10221118000
+"434","UN Medium Variant Projection (2019 revision)",NA,2063,10254383000
+"435","UN Medium Variant Projection (2019 revision)",NA,2064,10286616000
+"436","UN Medium Variant Projection (2019 revision)",NA,2065,10317830000
+"437","UN Medium Variant Projection (2019 revision)",NA,2066,10348042000
+"438","UN Medium Variant Projection (2019 revision)",NA,2067,10377268000
+"439","UN Medium Variant Projection (2019 revision)",NA,2068,10405520000
+"440","UN Medium Variant Projection (2019 revision)",NA,2069,10432810000
+"441","UN Medium Variant Projection (2019 revision)",NA,2070,10459153000
+"442","UN Medium Variant Projection (2019 revision)",NA,2071,10484559000
+"443","UN Medium Variant Projection (2019 revision)",NA,2072,10509046000
+"444","UN Medium Variant Projection (2019 revision)",NA,2073,10532630000
+"445","UN Medium Variant Projection (2019 revision)",NA,2074,10555327000
+"446","UN Medium Variant Projection (2019 revision)",NA,2075,10577156000
+"447","UN Medium Variant Projection (2019 revision)",NA,2076,10598132000
+"448","UN Medium Variant Projection (2019 revision)",NA,2077,10618268000
+"449","UN Medium Variant Projection (2019 revision)",NA,2078,10637574000
+"450","UN Medium Variant Projection (2019 revision)",NA,2079,10656054000
+"451","UN Medium Variant Projection (2019 revision)",NA,2080,10673719000
+"452","UN Medium Variant Projection (2019 revision)",NA,2081,10690577000
+"453","UN Medium Variant Projection (2019 revision)",NA,2082,10706644000
+"454","UN Medium Variant Projection (2019 revision)",NA,2083,10721951000
+"455","UN Medium Variant Projection (2019 revision)",NA,2084,10736533000
+"456","UN Medium Variant Projection (2019 revision)",NA,2085,10750417000
+"457","UN Medium Variant Projection (2019 revision)",NA,2086,10763615000
+"458","UN Medium Variant Projection (2019 revision)",NA,2087,10776129000
+"459","UN Medium Variant Projection (2019 revision)",NA,2088,10787962000
+"460","UN Medium Variant Projection (2019 revision)",NA,2089,10799112000
+"461","UN Medium Variant Projection (2019 revision)",NA,2090,10809576000
+"462","UN Medium Variant Projection (2019 revision)",NA,2091,10819350000
+"463","UN Medium Variant Projection (2019 revision)",NA,2092,10828433000
+"464","UN Medium Variant Projection (2019 revision)",NA,2093,10836817000
+"465","UN Medium Variant Projection (2019 revision)",NA,2094,10844497000
+"466","UN Medium Variant Projection (2019 revision)",NA,2095,10851461000
+"467","UN Medium Variant Projection (2019 revision)",NA,2096,10857694000
+"468","UN Medium Variant Projection (2019 revision)",NA,2097,10863179000
+"469","UN Medium Variant Projection (2019 revision)",NA,2098,10867894000
+"470","UN Medium Variant Projection (2019 revision)",NA,2099,10871811000
+"471","UN Medium Variant Projection (2019 revision)",NA,2100,10874902000
